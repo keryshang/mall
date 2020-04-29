@@ -6,7 +6,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * @author KRIS
- * @qq交流群 796794009
  * @email 2449207463@qq.com
  * @link https://github.com/newbee-ltd
  */
